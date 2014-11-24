@@ -16,3 +16,11 @@ Screenshot1 Home window Just after Installation
 
 Screenshot 2 Registration Window Just after Installation
 <img src="https://github.com/sanjibnarzary/MCQuiz/blob/master/screenshot2.png" />
+
+Demo
+====
+For more demo visit http://quiz.gitspot.com
+
+External Site Q & A
+
+http://www.alayaran.com
