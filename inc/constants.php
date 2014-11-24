@@ -4,7 +4,7 @@
 */
 	class Constants{
 			function siteTitle(){
-					return "interviewexchange.org";
+					return "MCQuiz";
 				}
 			function siteSlogan(){
 					return "Be prepared!";
