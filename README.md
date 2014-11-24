@@ -1,6 +1,9 @@
+MCQuiz
+=====
 MCQuiz stands for Multiple Choice Quiz
 
 About
+=====
 
 Most of the time if it is required to test your candidate for eligibility for a particular job, Multiple Choice type question is best for that purpose. Because you can ask so many question for a specified amount of time.
 
