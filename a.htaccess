@@ -1,0 +1,12 @@
+#Sanjib Narzary
+#Asst Prof & Independent Developer
+RewriteEngine On
+
+#This is for catq.php file
+RewriteRule ^tutorial/?$ catq.php [NC,L]
+RewriteRule ^tutorial/([A-Za-z0-9\_]+)/?$ catq.php?name=$1 [NC,L]
+RewriteRule ^tutorial/([A-Za-z0-9\_]+)/multiple/question/set/([0-9]+)/?$ catq.php?name=$1&start=$2 [NC,L]
+
+#This is for catqsingle.php file
+RewriteRule ^tutorial/([A-Za-z0-9\_]+)/question/single/?$ catqsingle.php?name=$1 [NC,L]
+RewriteRule ^tutorial/([A-Za-z0-9\_]+)/question/single/([0-9]+)/?$ catqsingle.php?name=$1&start=$2 [NC,L]
