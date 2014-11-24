@@ -10,3 +10,6 @@ Most of the time if it is required to test your candidate for eligibility for a 
 This small piece of code was written by Sanjib Narzary for the purpose to conduct a codester during Ecstasy 2014 at CIT Kokrajhar. Now the entire code is available for free at github. You can find the hosted quiz at http://quiz.gitspot.com for reference or demo.
 
 Social Logins will not work by now.
+
+Screenshot1
+<img src="https://github.com/sanjibnarzary/MCQuiz/blob/master/screenshot1.png" />
