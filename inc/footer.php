@@ -1,5 +1,5 @@
 		<div class="hero recent-users">
-        	<img src="users/Koala.jpg" class="img-polaroid" data-src="300x200" />
+        	<!-- Recent users code will be placed here//-->
         </div>
         <div class="row-fluid">
         	<div class="span5">
