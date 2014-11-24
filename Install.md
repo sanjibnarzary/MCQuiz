@@ -1,5 +1,8 @@
+
 Installation
+
 Requirement
+
 1.	Linux/Windows/Mac Operating System
 2.	Apache Server with mod_rewrite enabled 
 3.	PHP 5 and higher with PDO extension by default PDO is there in PHP 5
