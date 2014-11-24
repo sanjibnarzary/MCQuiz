@@ -11,5 +11,8 @@ This small piece of code was written by Sanjib Narzary for the purpose to conduc
 
 Social Logins will not work by now.
 
-Screenshot1
+Screenshot1 Home window Just after Installation
 <img src="https://github.com/sanjibnarzary/MCQuiz/blob/master/screenshot1.png" />
+
+Screenshot 2 Registration Window Just after Installation
+<img src="https://github.com/sanjibnarzary/MCQuiz/blob/master/screenshot2.png" />
